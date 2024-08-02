@@ -5,9 +5,9 @@
 
 #include "config.h"
 
-#define WS_HOST ""
+#define WS_HOST "k6dije477f.execute-api.eu-north-1.amazonaws.com"
 #define WS_PORT 443
-#define WS_URL ""
+#define WS_URL "/dev"
 
 #define MSG_SIZE 256
 
